@@ -1,1 +1,2 @@
-# CR7
+# test
+this is my first repository
